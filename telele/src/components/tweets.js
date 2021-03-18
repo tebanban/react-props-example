@@ -5,8 +5,8 @@ import Tweet from './tweet';
 
 const Tweets=(props) => {
     const tweets =[
-        {name:"Esteban" , tweet:"i am loco .....ueueuueueue"},
-        {name:"Carlas" , tweet:"i am crazy............jejejejjs"},
+        {name:"Esteban" , tweet:"Lorem ipsum dolor sit amet, consectetur adipiscing elit,"},
+        {name:"Carlos" , tweet:" sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."},
         {name:"Luis" , tweet:"i am cool.....dndndns"},
     ];
 
